@@ -2,12 +2,28 @@
 
 My first mini React project 🎉  
 A simple counter app made using React's **useState** hook.  
-You can increase and decrease the counter using styled buttons.  
+You can increase and decrease the counter using styled buttons.
 
 ---
 
 ## 🚀 Demo
-<img width="400" alt="counter app" src="https://github.com/user-attachments/assets/6606d6c5-ebde-42fd-b8ee-45c4a7b53f16" />
+[![Counter App Demo](https://github.com/user-attachments/assets/05137470-d2f8-4204-8c93-7836c4add78f)](https://apekshasingh0.github.io/Counter-App/)
+
+[View Live Demo](https://apekshasingh0.github.io/Counter-App/)
 
 ---
+
+## 💻 Features
+- Increment and decrement counter
+- Styled buttons
+- Built with React Hooks (`useState`)
+
+---
+
+## 🛠 Installation & Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/apekshasingh0/Counter-App.git
+
+
 
